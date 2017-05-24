@@ -1,0 +1,5 @@
+hub test_Hub
+shortLabel test Hub
+longLabel simple test Hub
+genomesFile genomes.txt
+email <a HREF="1458045271@qq.com"TARGET=_BLANK>Ian Dunham</a>

@@ -1,0 +1,5 @@
+track TESTGSM791827_human_bcell
+type bed
+bigDataUrl http://pan.baidu.com/s/1dEE2OEH
+shortLabel GSM791827
+longLabel GSM791827_human_bcell_hmr_hg18
