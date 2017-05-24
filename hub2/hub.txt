@@ -1,0 +1,6 @@
+hub AWG_Hub
+shortLabel ENCODE Analysis Hub
+longLabel ENCODE Integrative Analysis Data Hub
+genomesFile genomes.txt
+email <a HREF="mailto:dunham@ebi.ac.uk"TARGET=_BLANK>Ian Dunham</a>
+descriptionUrl http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3439153/
