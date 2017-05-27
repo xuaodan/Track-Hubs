@@ -1,1 +1,5 @@
-
+hub GSE31971_test
+shortLabel test
+longLabel  GSE31971_test
+genomesFile genomes.txt
+email <a HREF="1458045271@qq.com"TARGET=_BLANK>Xu</a>
