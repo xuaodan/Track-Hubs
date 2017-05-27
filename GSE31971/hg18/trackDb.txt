@@ -1,1 +1,7 @@
+ track GSM791827_human_bcell_hmr_hg18
+ bigDataUrl  https://github.com/xuaodan/Track-Hubs/edit/master/GSE31971/GSM791827_human_bcell_hmr_hg18.bb 
+ shortLabel bcell_hmr
+ longLabel GSM791827_human_bcell_hmr_hg18
+ type bigBed 6 +
+ color 8,104,172
 
