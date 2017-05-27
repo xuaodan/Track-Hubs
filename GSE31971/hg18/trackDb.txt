@@ -1,5 +1,5 @@
  track GSM791827_human_bcell_hmr_hg18
- bigDataUrl  https://raw.githubusercontent.com/xuaodan/Track-Hubs/master/GSE31971/GSM791827_human_bcell_hmr_hg18.bb 
+ bigDataUrl  https://raw.githubusercontent.com/xuaodan/Track-Hubs/master/GSM791827_human_bcell_CpG_methylation_hg18.bw
  shortLabel bcell_CpG
  longLabel GSM791827_human_bcell_CpG_methylation_hg18
  type bigWig
