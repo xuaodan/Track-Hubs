@@ -1,1 +1,5 @@
-
+track GSE74193
+bigDataUrl GSE74193.bw
+type bigWig
+shortLabel GSE74193
+longLabel Methylation of GSE74193
