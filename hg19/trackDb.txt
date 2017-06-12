@@ -1,1 +1,7 @@
+track GSE74193
+bigDataUrl http://ftp.ebi.ac.uk/pub/databases/ensembl/encode/integration_data_jan2011/byDataType/openchrom/jan2011/fdrPeaks/wgEncodeUWDukeDnaseGM12878.fdr01peaks.hg19.bb
+type bigWig
+shortLabel GSE74193
+longLabel Methylation of GSE74193
+color 8,104,172
 
