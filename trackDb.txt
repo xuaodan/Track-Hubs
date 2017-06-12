@@ -4,7 +4,7 @@ type bigWig
 shortLabel GSE74193
 longLabel Methylation of GSE74193
 visibility full
-color 0,0,0
+color 0,128,128
 maxHeightPixels 100:40:8
 boxedCfg on
 autoScale on
@@ -15,7 +15,18 @@ type bigWig
 shortLabel GSE77965
 longLabel Methylation of GSE77965
 visibility full
-color 0,0,0
+color 0,128,128
+maxHeightPixels 100:40:8
+boxedCfg on
+autoScale on
+
+track GSE39279
+bigDataUrl https://github.com/xuaodan/Track-Hubs/raw/master/GSE39279.bw
+type bigWig
+shortLabel GSE39279
+longLabel Methylation of GSE39279
+visibility full
+color 0,128,128
 maxHeightPixels 100:40:8
 boxedCfg on
 autoScale on
