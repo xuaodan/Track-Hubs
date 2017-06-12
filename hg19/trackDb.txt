@@ -1,5 +1,5 @@
 track GSE74193
-bigDataUrl https://github.com/xuaodan/Track-Hubs/blob/master/GSE74193.bw?raw=true
+bigDataUrl https://github.com/xuaodan/Track-Hubs/raw/master/GSE74193.bw
 type bigWig
 shortLabel GSE74193
 longLabel Methylation of GSE74193
