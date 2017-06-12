@@ -1,0 +1,21 @@
+track GSE74193
+bigDataUrl https://github.com/xuaodan/Track-Hubs/raw/master/GSE74193.bw
+type bigWig
+shortLabel GSE74193
+longLabel Methylation of GSE74193
+visibility full
+color 0,0,0
+maxHeightPixels 100:40:8
+boxedCfg on
+autoScale on
+
+track GSE77965
+bigDataUrl https://github.com/xuaodan/Track-Hubs/raw/master/GSE77965.bw
+type bigWig
+shortLabel GSE77965
+longLabel Methylation of GSE77965
+visibility full
+color 0,0,0
+maxHeightPixels 100:40:8
+boxedCfg on
+autoScale on
