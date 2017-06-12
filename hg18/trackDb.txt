@@ -1,5 +1,0 @@
-track TESTGSM791827_human_bcell
-type bed
-bigDataUrl https://github.com/xuaodan/Track-Hubs/blob/master/hg18/GSM791827_human_bcell_hmr_hg18.bed
-shortLabel GSM791827
-longLabel GSM791827_human_bcell_hmr_hg18

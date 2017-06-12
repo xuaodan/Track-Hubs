@@ -1,2 +1,2 @@
-genome hg18
-trackDb hg18/trackDb.txt
+genome hg19
+trackDb hg19/trackDb.txt
