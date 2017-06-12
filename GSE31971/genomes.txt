@@ -1,2 +1,0 @@
-genome hg18
-trackDb hg18/trackDb.txt
