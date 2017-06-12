@@ -3,5 +3,3 @@ bigDataUrl https://github.com/xuaodan/Track-Hubs/raw/master/GSE74193.bw
 type bigWig
 shortLabel GSE74193
 longLabel Methylation of GSE74193
-color 8,104,172
-
